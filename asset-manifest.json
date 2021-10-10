@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Shopping_App/static/css/main.705e556d.chunk.css",
+    "main.js": "/Shopping_App/static/js/main.3e7d3e5f.chunk.js",
+    "main.js.map": "/Shopping_App/static/js/main.3e7d3e5f.chunk.js.map",
+    "runtime-main.js": "/Shopping_App/static/js/runtime-main.ff0bc6a2.js",
+    "runtime-main.js.map": "/Shopping_App/static/js/runtime-main.ff0bc6a2.js.map",
+    "static/js/2.df1d1bf6.chunk.js": "/Shopping_App/static/js/2.df1d1bf6.chunk.js",
+    "static/js/2.df1d1bf6.chunk.js.map": "/Shopping_App/static/js/2.df1d1bf6.chunk.js.map",
+    "index.html": "/Shopping_App/index.html",
+    "precache-manifest.d5460455b31137cf8bab4885708a2ba3.js": "/Shopping_App/precache-manifest.d5460455b31137cf8bab4885708a2ba3.js",
+    "service-worker.js": "/Shopping_App/service-worker.js",
+    "static/css/main.705e556d.chunk.css.map": "/Shopping_App/static/css/main.705e556d.chunk.css.map",
+    "static/js/2.df1d1bf6.chunk.js.LICENSE.txt": "/Shopping_App/static/js/2.df1d1bf6.chunk.js.LICENSE.txt",
+    "static/media/book.jpg": "/Shopping_App/static/media/book.028978f4.jpg",
+    "static/media/smartphone.jpg": "/Shopping_App/static/media/smartphone.67a48767.jpg",
+    "static/media/speaker.jpg": "/Shopping_App/static/media/speaker.4a0dbe85.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff0bc6a2.js",
+    "static/js/2.df1d1bf6.chunk.js",
+    "static/css/main.705e556d.chunk.css",
+    "static/js/main.3e7d3e5f.chunk.js"
+  ]
+}
